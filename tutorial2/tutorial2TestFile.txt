@@ -1,0 +1,1 @@
+This is to test the put url from the minIO client.
